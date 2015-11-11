@@ -25,7 +25,7 @@ BASE_DIR = os.path.dirname(PROJECT_DIR)
 
 INSTALLED_APPS = (
     'rippyweb.home',
-    'rippyweb.game',
+    'rippyweb.games',
     'rippyweb.maps',
     'rippyweb.search',
     'rippyweb.users',

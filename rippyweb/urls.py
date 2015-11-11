@@ -15,7 +15,7 @@ urlpatterns = [
 
     url(r'^search/$', 'rippyweb.search.views.search', name='search'),
 
-    url(r'^play/$', 'rippyweb.game.views.play', name='play'),
+    url(r'^play/$', 'rippyweb.games.views.play', name='play'),
 ]
 
 
